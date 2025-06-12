@@ -29,14 +29,6 @@ Para importar cualquier flujo de trabajo en tu instancia de n8n, sigue estos pas
 6. [Si no encuentras el flujo que necesitas, puedes usar este Custom GPT para que te ayude a encontrarlo o a resolver cualquier problema que tengas con N8N.](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n).
 7. También puedes chatear con este repositorio usando [https://gitmcp.io/DragonJAR/n8n-workflows-es/chat](https://gitmcp.io/DragonJAR/n8n-workflows-es/chat)
 
-## 🖥️ Servidor MCP (Model Context Protocol)
-
-El servidor MCP de este repositorio, para que puedas interactuar con esta gran base de datos de conocimiento con flujos de n8n documentados, es:
-
-`https://gitmcp.io/DragonJAR/n8n-workflows-es`
-
-[Aquí encontrarás las instrucciones para usarlo en Cursor, Claude Desktop, Windsurf, VSCode, Cline o Highlight AI](https://gitmcp.io/DragonJAR/n8n-workflows-es).
-
 ## 🤝 Contribución
 
 Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a contribuir a esta colección! Solo ten en cuenta:
