@@ -36,12 +36,6 @@ Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a 
 - **Nombre descriptivo**: Elige un nombre de archivo que refleje claramente la función principal del workflow.  
 - **Mención de la fuente**: Si el flujo de trabajo proviene de otra fuente, incluye un comentario breve al inicio del archivo indicando su origen.
 
-Para proponer contribuciones, abre un pull request con tu nuevo workflow o mejora.
-
-## ⏯️ Manel aporta esta excelente explicación en video sobre el repositorio.
-
-[![Agradecimiento a Manelautomatic](https://i.imgur.com/fq4Ef0N.png)](https://www.youtube.com/watch?v=9haKti-edOE "Gracias a Manelautomatic por explicar en video el repositorio")
-
 ## ⚠️ Aviso
 
 Todos los workflows aquí compartidos se proporcionan tal cual. **Antes de emplearlos en un entorno de producción, inspecciónalos y pruébalos en un entorno controlado**. Asegúrate de entender completamente cada nodo, credencial y enlace para evitar posibles errores o brechas de seguridad.
